@@ -121,14 +121,14 @@
 {{-- INICIO REGISTRO RESTAURANTE --}}
 					<div class="mb-5">
 						<label for="name" class="font-bold mb-1 text-orange-700 block">Nombre del Restaurante</label>
-						<input required type="text"
+						<input type="text"
 							class="w-full px-4 py-3 rounded-lg shadow-sm focus:outline-none focus:shadow-outline text-gray-600 font-medium"
 							placeholder="Nombre de tu restaurante..." name="name" >
 					</div>
 
 					<div class="mb-5">
 						<label for="description" class="font-bold mb-1 text-orange-700 block">Descripción</label>
-						<input type="text" required
+						<input type="text"
 							class="w-full px-4 py-3 rounded-lg shadow-sm focus:outline-none focus:shadow-outline text-gray-600 font-medium"
 							placeholder="Una breve descripción de tu restaurante..." name="description">
 					</div>
