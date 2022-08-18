@@ -1,0 +1,119 @@
+/* main vip members scarousel -------- */
+
+.vip-pic-1 {
+    background-image: url('../img/sections-img/vip/atman-studios-UPolqOrkbno-unsplash.jpg');
+}
+
+.vip-pic-2 {
+    background-image: url('../img/sections-img/vip/jason-briscoe--eLfQTmDfLk-unsplash.jpg');
+}
+
+.vip-pic-3 {
+    background-image: url('../img/sections-img/vip/saad-khan-425b2PhNuHA-unsplash.jpg');
+}
+
+.vip-pic-4 {
+    background-image: url('../img/sections-img/vip/paolo-nicolello-2gOxKj594nM-unsplash.jpg');
+}
+
+.vip-pic-5 {
+    background-image: url('../img/sections-img/vip/yuliya-pankevich-oyxsG2Lh_uA-unsplash.jpg');
+}
+
+.vip-pic-6 {
+    background-image: url('../img/sections-img/vip/finn-cNsIhcGjkc0-unsplash.jpg');
+}
+
+.vip-pic-7 {
+    background-image: url('../img/sections-img/vip/sara-dubler-Koei_7yYtIo-unsplash.jpg');
+}
+
+.vip-pic-8 {
+    background-image: url('../img/sections-img/vip/paul-szewczyk-yHmnjcVHoP4-unsplash.jpg');
+}
+
+/* home rentals carousel --------- */
+
+.rentals-pic-1 {
+    background-image: url('../img/sections-img/rentals/adam-winger-VGs8z60yT2c-unsplash.jpg');
+}
+
+.rentals-pic-2 {
+    background-image: url('../img/sections-img/rentals/christian-mackie-yb9b2wbhxG4-unsplash.jpg');
+}
+
+.rentals-pic-3 {
+    background-image: url('../img/sections-img/rentals/naomi-hebert-MP0bgaS_d1c-unsplash.jpg');
+}
+
+.rentals-pic-4 {
+    background-image: url('../img/sections-img/rentals/roberto-nickson-emqnSQwQQDo-unsplash.jpg');
+}
+
+.rentals-pic-5 {
+    background-image: url('../img/sections-img/rentals/spacejoy-9M66C_w_ToM-unsplash.jpg');
+}
+
+.rentals-pic-6 {
+    background-image: url('../img/sections-img/rentals/spacejoy-RUvW1KGD9a4-unsplash.jpg');
+}
+
+/* more to explore carousel ---------- */
+
+.explore-pic-1 {
+    background-image: url('../img/sections-img/explore/hendrik-cornelissen--qrcOR33ErA-unsplash.jpg');
+}
+
+.explore-pic-2 {
+    background-image: url('../img/sections-img/explore/keem-ibarra-I2Dz5Hljm9g-unsplash.jpg');
+}
+
+.explore-pic-3 {
+    background-image: url('../img/sections-img/explore/v2f-00H0QIi9j2U-unsplash.jpg');
+}
+
+/* hire banner img ------------------- */
+
+.hire-pic {
+    background-image: url('../img/sections-img/hire/vera-davidova-syADksVMrKk-unsplash.jpg');
+}
+
+/* destinations carousel ------------ */
+
+.destinations-pic-1 {
+    background-image: url('../img/sections-img/destinations/yellowstone-national-park.jpg');
+}
+
+.destinations-pic-2 {
+    background-image: url('../img/sections-img/destinations/dominicana-2825981_640.jpg');
+}
+
+.destinations-pic-3 {
+    background-image: url('../img/sections-img/destinations/maui.jpg');
+}
+
+.destinations-pic-4 {
+    background-image: url('../img/sections-img/destinations/orlando.jpg');
+}
+
+.destinations-pic-5 {
+    background-image: url('../img/sections-img/destinations/sedona.jpg');
+}
+
+.destinations-pic-6 {
+    background-image: url('../img/sections-img/destinations/mexico2.jpg');
+}
+
+.destinations-pic-7 {
+    background-image: url('../img/sections-img/destinations/NY.jpg');
+}
+
+.destinations-pic-8 {
+    background-image: url('../img/sections-img/destinations/las-vegas-82319_640.jpg');
+}
+
+/* get more img ---------- */
+
+.get-more-pic {
+    background-image: url('../img/sections-img/get-more/pool.jpg');
+}
